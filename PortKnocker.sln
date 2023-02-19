@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortKnocker_API", "PortKnocker_API\PortKnocker_API.csproj", "{C1B1F7CC-7B8B-47B5-9FB6-15C3BBF97AA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortKnocker_API", "PortKnocker_API\PortKnocker_API.csproj", "{C1B1F7CC-7B8B-47B5-9FB6-15C3BBF97AA8}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "portknocker_react", "PortKnocker_React\portknocker_react.esproj", "{B4D4C02C-1436-4214-835F-BCC6BAFA686D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{C1B1F7CC-7B8B-47B5-9FB6-15C3BBF97AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B1F7CC-7B8B-47B5-9FB6-15C3BBF97AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B1F7CC-7B8B-47B5-9FB6-15C3BBF97AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D4C02C-1436-4214-835F-BCC6BAFA686D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D4C02C-1436-4214-835F-BCC6BAFA686D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D4C02C-1436-4214-835F-BCC6BAFA686D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B4D4C02C-1436-4214-835F-BCC6BAFA686D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D4C02C-1436-4214-835F-BCC6BAFA686D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D4C02C-1436-4214-835F-BCC6BAFA686D}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
